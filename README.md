@@ -1,1 +1,2 @@
 # til
+git --version
